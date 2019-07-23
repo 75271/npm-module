@@ -5,6 +5,7 @@ https://www.love85g.com/?p=1928
 ## vue
 * 文字提示  [vue-simple-tips](https://www.npmjs.com/package/vue-simple-tips)
 * loading加载  [vue-simples-loading](https://www.npmjs.com/package/vue-simples-loading)
+* 复制  [vue-to-copy](https://www.npmjs.com/package/vue-to-copy)
 
 ## react
 * 文字提示  [react-simple-tips](https://www.npmjs.com/package/react-simple-tips)
